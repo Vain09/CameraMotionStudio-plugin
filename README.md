@@ -1,6 +1,6 @@
 # CameraMotion Studio (plugin downloads)
 
-Bouncing and orbiting cameras for FFXIV GPose, with sliders for intensity and position.
+Bouncing, orbiting and tracking cameras for FFXIV GPose, with sliders for intensity and position.
 
 Install in game:
 1. `/xlsettings` > **Experimental** > **Custom Plugin Repositories**: add
