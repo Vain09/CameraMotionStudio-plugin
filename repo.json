@@ -3,7 +3,7 @@
     "Author":  "Vain09",
     "Name":  "CameraMotion Studio",
     "InternalName":  "CameraMotionStudio",
-    "AssemblyVersion":  "0.2.0.0",
+    "AssemblyVersion":  "0.2.1.0",
     "Description":  "Moves the GPose camera for you: a bounce that bobs the camera while it follows your character, an orbit that circles around them, and a hand-held track that follows a body part or minion. Each has sliders for intensity and position. Only runs while GPose is open.",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  15,
@@ -14,13 +14,13 @@
     "Punchline":  "Bouncing, orbiting and tracking cameras for GPose.",
     "AcceptsFeedback":  true,
     "RepoUrl":  "https://github.com/Vain09/CameraMotionStudio-plugin",
-    "TestingAssemblyVersion":  "0.2.0.0",
+    "TestingAssemblyVersion":  "0.2.1.0",
     "IsHide":  false,
     "IsTestingExclusive":  false,
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/Vain09/CameraMotionStudio-plugin/main/download/CameraMotionStudio.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Vain09/CameraMotionStudio-plugin/main/download/CameraMotionStudio.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/Vain09/CameraMotionStudio-plugin/main/download/CameraMotionStudio.zip",
-    "LastUpdate":  1795382095,
+    "LastUpdate":  1795490966,
     "DownloadCount":  0
 }
 ]
